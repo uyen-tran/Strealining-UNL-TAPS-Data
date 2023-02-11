@@ -1,4 +1,4 @@
-# Strealining-UNL-TAPS-Data
+# Strealining UNL TAPS Data (2021-2022)
 
 **Project Overview**: The University of Nebraska–Lincoln’s Testing Ag Performance Solutions (TAPS) program was started as a new way to engage agricultural producers. The TAPS program is a unique farm management competition that promotes profitability and efficiency through peer-to-peer interaction. Participants are responsible for making input decisions including hybrid selection and seeding rate, irrigation, insurance selection, marketing strategy, and nitrogen fertilizer management. The data is stored and input manually into Excel files. The project team created a streamlined, automated process for recording submitted decision data into the Excel files for the competitions, using a SQL database.
 
